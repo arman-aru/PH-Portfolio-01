@@ -1,0 +1,116 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+/****Main color = #6047EC ***/
+
+.span-1{
+    color: #6047EC;
+}
+h1{
+    font-size: 3vw;
+}
+.welcome{
+    font-size: 10vh;
+}
+p{
+    padding-bottom: 1vw;
+}
+.section-1{
+    display: flex;
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
+    align-items: center;
+
+}
+.div-left-1{
+    width: 50%;
+    padding: 0 5vw 0 5vw;
+}
+.div-right-1{
+    width: 50%;
+    padding-top: 4%;
+    padding-left: 5%;
+    
+}
+.div-right-1 img{
+    width: 80%;
+}
+.hire-button{
+    color: #ffffff;
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(#6047EC, #FF267B);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.hire-button:hover{
+    background-image: linear-gradient(#FF267B, #6047EC);
+    
+}
+
+.section-2{
+    display: flex;
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    background-position: right;
+    margin-bottom: 100px;
+}
+
+.flex-section{
+    display: flex;
+    background-repeat: no-repeat;
+    align-items: center;
+
+}
+.experience-shadow{
+    width: 40%;
+    margin:0 25px 0 25px ;
+    box-shadow: gray 10px 10px 10px 10px;
+    padding-left: 25px;
+    padding-right: 20px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.experience{
+    background-image: url(/images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    align-items: center;
+    margin-bottom: 40px;
+
+}
+#shadow-1{
+    border-left: 7px solid #6047EC;
+}
+#shadow-2{
+    border-left: 7px solid #FF267B;
+}
+
+footer p{
+    text-align: center;
+}
+.ex-h1{
+    text-align: center;
+}
+
+.section-3{
+    display: flex;
+    background-image: url(/images/dream-bg\ -\ Copy.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    background-position: left;
+    margin-bottom: 100px;
+
+}
+
+
+
+
+
+
+
